@@ -5,8 +5,7 @@ body{
     line-height 2.0em;
 }
 
-#main-header{
-    background-image:url('../img/pets.jpg');
+#main-header{    
     background-position: inherit;
     min-height:300px;
     margin-bottom:30px;
