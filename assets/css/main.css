@@ -140,7 +140,7 @@ body{
     z-index: 11;
     position: relative;
 }
-.neutral{
+.nutral{
 	background-color: #ebebeb;
 	height: 90px;
 	z-index: 10;
@@ -241,11 +241,11 @@ body{
 .product .section-bg{
 	background-color: #fff;
 }
-.product-box{
+.porduct-box{
 	margin-bottom: 30px;
 	position: relative;
 }
-.product-box img{
+.porduct-box img{
 	width: 100% !important;
 }
 .product-title{
@@ -396,7 +396,7 @@ body{
 	background-image: url(../images/faq-header.jpg);
 }
 .shop-header .intro{
-	background-image: url(../images/it-min.jpg);
+	background-image: url(../images/shop-header.jpg);
 }
 .contact-header .intro{
 	background-image: url(../images/contact-header.jpg);
