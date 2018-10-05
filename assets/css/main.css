@@ -35,6 +35,8 @@ body{
 	text-transform: uppercase;
 }
 .title-box p{
+	text-align:center;
+	padding-left: 10%;
 	margin-bottom: 0;
 }
 .title{
@@ -132,7 +134,7 @@ body{
 }
 .intro{
 	padding: 200px 0;
-    background-image: url(../images/header.jpg);
+    background-image: url(../images/header-min.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -140,7 +142,47 @@ body{
     z-index: 11;
     position: relative;
 }
-.nutral{
+.mintro {
+	padding: 200px 0;
+	background-image: url(../images/markdown-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.hintro {
+	padding: 200px 0;
+	background-image: url(../images/html-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.cintro {
+	padding: 200px 0;
+	background-image: url(../images/css-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.iintro {
+	padding: 200px 0;
+	background-image: url(../images/imagetypes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.neutral{
 	background-color: #ebebeb;
 	height: 90px;
 	z-index: 10;
@@ -251,7 +293,7 @@ body{
 .product-title{
 	position: absolute;
     top: 5px;
-    left: 25px;
+    left: 4px;
     right: 25px;
     padding: 15px;
     background-color: #fabe12;
@@ -278,13 +320,14 @@ body{
 	z-index: 1;
 }
 .outer-stiker{
-	display: inline-block;
+	display: initial;
+	padding:35px;
 	color: #d0d0d0;
 }
 .stiker{
 	display: inline-block;
 }
-.inner-stiker{
+.inner-stiker{	
 	color: #fff;
 	padding-right: 50px;
 }
