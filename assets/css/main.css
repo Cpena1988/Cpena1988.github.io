@@ -203,14 +203,15 @@ body{
 }
 .navbar .navbar-nav {
     display: inline-block;
-    float: none;
+	float: none;	
 }
 .navbar .navbar-collapse {
-    text-align: center;
+	text-align: center;	
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
 	color: #fff;
 }
+
 
 
 
