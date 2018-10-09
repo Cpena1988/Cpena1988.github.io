@@ -152,6 +152,56 @@ body{
     z-index: 11;
     position: relative;
 }
+.mhintro {
+	padding: 200px 0;
+	background-image: url(../images/markdownhistory.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.miintro {
+	padding: 200px 0;
+	background-image: url(../images/markdownimplementations-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.msintro {
+	padding: 200px 0;
+	background-image: url(../images/markdownsyntax.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.mtintro {
+	padding: 200px 0;
+	background-image: url(../images/markdowntutorial-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.muintro {
+	padding: 200px 0;
+	background-image: url(../images/markdownuses-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
 .hintro {
 	padding: 200px 0;
 	background-image: url(../images/html-min.jpg);
