@@ -212,6 +212,56 @@ body{
     z-index: 11;
     position: relative;
 }
+.hbintro {
+	padding: 200px 0;
+	background-image: url(../images/htmlbasics-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.hchintro {
+	padding: 200px 0;
+	background-image: url(../images/htmlcheatsheet-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.hcointro {
+	padding: 200px 0;
+	background-image: url(../images/htmlcoding.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.hhintro {
+	padding: 200px 0;
+	background-image: url(../images/htmlhistory-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.hvintro {
+	padding: 200px 0;
+	background-image: url(../images/htmlvariations-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
 .cintro {
 	padding: 200px 0;
 	background-image: url(../images/css-min.png);
@@ -222,9 +272,109 @@ body{
     z-index: 11;
     position: relative;
 }
+.cbintro {
+	padding: 200px 0;
+	background-image: url(../images/cssbasics-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.ccintro {
+	padding: 200px 0;
+	background-image: url(../images/csscheatsheet-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.chintro {
+	padding: 200px 0;
+	background-image: url(../images/csshistory-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.csintro {
+	padding: 200px 0;
+	background-image: url(../images/cssstyling-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.ctintro {
+	padding: 200px 0;
+	background-image: url(../images/csstypes-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
 .iintro {
 	padding: 200px 0;
 	background-image: url(../images/imagetypes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.ibintro {
+	padding: 200px 0;
+	background-image: url(../images/bmp-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.igintro {
+	padding: 200px 0;
+	background-image: url(../images/gif-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.ijintro {
+	padding: 200px 0;
+	background-image: url(../images/jpeg-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.ipintro {
+	padding: 200px 0;
+	background-image: url(../images/png-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -90px;
+    z-index: 11;
+    position: relative;
+}
+.irintro {
+	padding: 200px 0;
+	background-image: url(../images/raw-min.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
