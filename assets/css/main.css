@@ -36,11 +36,13 @@ body{
 }
 .title-box p{
 	text-align:center;
-	padding-left: 10%;
+	font: 10px black;	
+	padding-left: 5%;
 	margin-bottom: 0;
 }
 .title{
 	font-weight: 300;
+	padding-left:10%;
 	color: #999;
 	font-size: 36px;
 	letter-spacing: 2px;
@@ -564,7 +566,11 @@ body{
 	text-align: center;
 }
 .history p{
-	color: #fff;
+	padding-bottom:80px;
+	color:orange;
+	font: 15px bold;
+	
+	
 }
 .history .title{
 	color: #fabe12;
